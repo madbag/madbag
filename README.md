@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **polishing my programming languages**
 
-- 🌱 I’m currently learning **Angular**
-
 - 👯 I’m looking to collaborate on **Happy News Project**
 
 - 👨‍💻 All of my projects are available at [https://madhushree.webflow.io/](https://madhushree.webflow.io/)
