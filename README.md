@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **polishing my programming languages**
 
-- 👯 I’m looking to collaborate on **Happy News Project**
-
 - 👨‍💻 All of my projects are available at [https://madhushree.webflow.io/](https://madhushree.webflow.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@madhushree.b](https://medium.com/@madhushree.b)
@@ -13,9 +11,7 @@
 
 - 📫 How to reach me **boylemadhushree@gmail.com**
 
-- 📄 Know about my experiences [https://madhushreeboyle.notion.site/madhushreeboyle/Madhushree-Boyle-5a52a1ecf4364fdf96865b941a872f6d](https://madhushreeboyle.notion.site/madhushreeboyle/Madhushree-Boyle-5a52a1ecf4364fdf96865b941a872f6d)
-
-- ⚡ Fun fact **I like watching anime and writing postcards**
+- ⚡ Fun fact **I like watching anime, writing postcards and knowing about nature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
