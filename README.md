@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Madhushree</h1>
-<h3 align="center">I am a junior web developer, passionate about tech and learning new programming languages</h3>
+<h3 align="center">I am a Junior Web Developer, passionate about tech and learning new programming languages</h3>
 
 - 🔭 I’m currently working on **polishing my programming languages**
 
 - 👨‍💻 All of my projects are available at [https://madhushree.webflow.io/](https://madhushree.webflow.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@madhushree.b](https://medium.com/@madhushree.b)
-
-- 💬 Ask me about **Javascript, React, MongoDB, NodeJS**
 
 - 📫 How to reach me **boylemadhushree@gmail.com**
 
