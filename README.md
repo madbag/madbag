@@ -1,7 +1,7 @@
 Hi! My name is Madhushree Boyle ✌🏽 
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Berlin, Germany.
+🌍  I am a Full-Stack Developer based in Berlin, Germany.
 <br/>
 
 ### Skills
