@@ -16,6 +16,6 @@ Hi! My name is Madhushree Boyle ✌🏽
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@madhushree.b">
-    <img src="https://img.shields.io/badge/medium-gray?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-gray?style=for-the-badge&logo=Medium&logoColor=black" alt="Medium Badge"/>
   </a>
 </div>
