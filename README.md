@@ -15,4 +15,7 @@ Hi! My name is Madhushree Boyle ✌🏽
   <a href="https://www.linkedin.com/in/madhushreeboyle-fullstackdeveloper/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://medium.com/@madhushree.b">
+    <img src="https://img.shields.io/badge/medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
