@@ -1,7 +1,7 @@
 Hi! My name is Madhushree Boyle ✌🏽 
 ========================================================================================================================================
 
-🌍  I am a Software Developer based in Berlin, Germany. Before this, I was a Teacher, now I am navigating through the field of technology.
+🌍  I am a Software Developer based in Berlin, Germany. Earlier, I was a Teacher and now I am navigating through the field of technology.
 <br/>
 
 ### Skills
