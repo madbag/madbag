@@ -1,7 +1,7 @@
 Hi! My name is Madhushree ✌🏽 
 ========================================================================================================================================
 
-🌍  I am a Full Stack Developer based in Berlin, Germany. Earlier, I was an Educator and now I am navigating through the field of technology.
+🌍  I am a Developer based in Berlin, Germany. Earlier, I was an Educator in India and now I am navigating through the field of technology and understanding different tech stacks. 
 <br/>
 
 ### Skills
