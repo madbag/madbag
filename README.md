@@ -12,7 +12,7 @@ Hi! My name is Madhushree ✌🏽
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/madhushreeboyle-fullstackdeveloper/">
+  <a href="https://www.linkedin.com/in/madhushreeb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://madhushreeboyle.netlify.app/">
